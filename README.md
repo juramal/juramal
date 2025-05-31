@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Juliano Ramalho
 
 Sou um desenvolvedor de software apaixonado por tecnologia, sempre em constante evolução. Gosto de aprender novas ferramentas, linguagens e boas práticas de desenvolvimento. Estou sempre buscando maneiras de melhorar minhas habilidades e contribuir com projetos que façam a diferença.
 
@@ -6,7 +6,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia, sempre em constante 
 
 - 💻 Desenvolvedor focado em back-end, front-end e automações.
 - 📚 Sempre estudando e explorando novas tecnologias.
-- 🌱 Atualmente aprendendo **[tecnologia que você está aprendendo]**.
+- 🌱 Atualmente aprendendo **Typescript, Javascript, React, React-Native, Python, Sql, NoSql**.
 - 🔍 Interesso-me por **desenvolvimento web**, **aplicações mobile**, **inteligência artificial** e **projetos open source**.
 - 🤝 Aberto a colaborações e novas oportunidades.
 
@@ -23,13 +23,13 @@ Sou um desenvolvedor de software apaixonado por tecnologia, sempre em constante 
 
 ## 📈 GitHub Stats
 
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical)
+![Juliano Ramalho GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juramal&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Email: seu.email@exemplo.com
+- LinkedIn: [linkedin.com/in/julianoramalho](https://linkedin.com/in/julianoramalho)
+- Email: juliano_ap_ramalho@hotmail.com
 
 ---
 
