@@ -23,7 +23,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia, sempre em constante 
 
 ## 📈 GitHub Stats
 
-![Juliano Ramalho GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
+![Juliano Ramalho](https://github-readme-stats.vercel.app/api?juramal=juramal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juramal&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
